@@ -69,7 +69,7 @@ Work flow of process:
 - As a result, missing values are filled, data are filtered accordingly, and inappropriate data are removed.   
 
 ### Exploratory Data Analysis
-- There are different types of charts Bar, Pie, Line, Scatter Plot, Column chart etc. which can visually present the data in more understandable way.
+- There are different types of charts Bar, Pie, Line, Scatter Plot, Column chart etc. which can visually present the data in a more understandable way.
 - Below bar chart shows the most famous restaurant chains in Bangalore with number of outlets.
 
 <p align="center"><img width="571" alt="image" src="https://user-images.githubusercontent.com/71536311/194037000-d06ac267-2a96-494e-867b-b85187c80e5a.png"></p>
