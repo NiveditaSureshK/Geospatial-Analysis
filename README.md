@@ -97,26 +97,27 @@ Work flow of process:
 ### Geospatial Analysis
 - Geospatial Analysis is useful for locating the geographical area in a particular region. 
 
-##### Heatmap of Restaurants in Bengaluru city
+#### Heatmap of Restaurants in Bengaluru city
 - For locating the restaurants in geographical map, we need latitudes, longitudes and count of restaurants. 
 - Extract the "Latitude" and "Longitude" w.r.t. different Locations using Python's Geopy Library.
 - Generate a "BaseMap" of Bangalore using Python's Folium Library.
 
-<p align="center">![geo analysis](https://user-images.githubusercontent.com/71536311/194481196-7dadb075-df9e-4cc7-a80a-d04d00e965ba.gif)</p> 
+![geo analysis](https://user-images.githubusercontent.com/71536311/194526173-42f7e43b-227c-4260-8b01-dbb505b80710.gif)
 
 - Plot a HeatMap based on variety of use cases with the help of Python's Folium "HeatMap" Plugins.
 - The heatmap below depicts the clutter of restaurants in Bengaluru.
 
-<p align="center">![heatmap of blore](https://user-images.githubusercontent.com/71536311/194491554-33fb6835-b758-464d-a87e-cb629f09c917.gif)</p> 
+![heatmap of blore](https://user-images.githubusercontent.com/71536311/194525572-e888e715-84ea-4a83-a304-a2ac19843997.gif)
 
-##### Heatmap of North Indian restaurants
+#### Heatmap of North Indian restaurants
 
-<p align="center">![hm of ni](https://user-images.githubusercontent.com/71536311/194495875-a61c539d-4ce2-4fd3-b880-abd85bd87d72.gif)</p> 
+![hm of ni](https://user-images.githubusercontent.com/71536311/194525587-eca90c7e-3d6b-4f09-b813-6b28a61ee010.gif)
 
 ### Sentiment Analysis
 - Here are the Wordclouds for 9 different types of restaurants where customers left feedback.   
 - 
-<p align="center"></p> 
+<p align="center">
+</p> 
 
 
 ## Tools Used
