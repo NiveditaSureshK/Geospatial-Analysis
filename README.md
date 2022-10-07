@@ -4,8 +4,6 @@
 
 The basic idea of analyzing the Zomato dataset is to get a fair idea about the factors affecting the establishment of different types of restaurants at different places in Bengaluru. This Zomato data aims at analyzing demography of the location. Most importantly it will help new restaurants in deciding their theme, menus, cuisine, cost, etc for a particular location. It also aims at finding similarity between neighborhoods of Bengaluru on the basis of food.
 
-The main objective of this project is to find insights and get some idea about the restaurants in Bangalore using different techniques like EDA, Geospatial and Sentiment Analysis.
-
 ## Problem Statement
 
 Observations on the following are made:
