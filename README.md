@@ -99,12 +99,12 @@ Work flow of process:
 
 #### Heatmap of Restaurants in Bengaluru city
 - For locating the restaurants in geographical map, we need latitudes, longitudes and count of restaurants. 
-- Extract the "Latitude" and "Longitude" w.r.t. different Locations using Python's Geopy Library.
-- Generate a "BaseMap" of Bangalore using Python's Folium Library.
+- Extract the **"Latitude"** and **"Longitude"** w.r.t. different Locations using **Python's Geopy** Library.
+- Generate a **"BaseMap"** of Bangalore using **Python's Folium** Library.
 
 ![geo analysis](https://user-images.githubusercontent.com/71536311/194526173-42f7e43b-227c-4260-8b01-dbb505b80710.gif)
 
-- Plot a HeatMap based on variety of use cases with the help of Python's Folium "HeatMap" Plugins.
+- Plot a HeatMap based on variety of use cases with the help of **Python's Folium "HeatMap" Plugins**.
 - The heatmap below depicts the clutter of restaurants in Bengaluru.
 
 ![heatmap of blore](https://user-images.githubusercontent.com/71536311/194525572-e888e715-84ea-4a83-a304-a2ac19843997.gif)
@@ -114,11 +114,12 @@ Work flow of process:
 ![hm of ni](https://user-images.githubusercontent.com/71536311/194525587-eca90c7e-3d6b-4f09-b813-6b28a61ee010.gif)
 
 ### Sentiment Analysis
-- Here are the Wordclouds for 9 different types of restaurants where customers left feedback.   
-- 
-<p align="center">
-</p> 
+- Here are the **Wordclouds developed using the built-in function in python called “WordCloud”** for 9 different types of restaurants where customers left feedback.   
+- To generate the below pictured wordclouds using Python, feedbacks are preprocessed, null values are dropped and all characters and spaces are removed except alphabets.
 
+<p align="center"><img width="698" alt="image" src="https://user-images.githubusercontent.com/71536311/194528121-df60fde3-4dd3-4c6c-b4d6-c3d79f0b7982.png"></p> 
+<p align="center"><img width="690" alt="image" src="https://user-images.githubusercontent.com/71536311/194528242-581f6dbc-7b5b-4950-a865-643fc7f295df.png"></p> 
+<p align="center"><img width="690" alt="image" src="https://user-images.githubusercontent.com/71536311/194528323-45b59f60-8a12-476e-a641-1734b9088412.png"></p> 
 
 ## Tools Used
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23#ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)   ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
@@ -131,4 +132,14 @@ For more details, please go through the Jupyter Notebook attached above.
 
 ## Conclusion
 
-- 
+- ***Cafe Coffee Day*** dominates the restaurant chain landscape followed by Onesta and then Empire.
+- ***Online orders are accepted by 64.4%*** of restaurants, whereas ***35.6% of restaurants do not accept them***.
+- The city of Bangalore is known as a high-tech hub of India, and people who live a busy and modern life are inclined to choose ***Quick Bites***.
+- The ***most common cuisines are North Indian, Chinese, and South Indian***. Bangalore is therefore influenced more by the cultures of the north than those of the south.
+- Having reviewed the above scatterplot, we can conclude that ***most of the highest-rated restaurants accept online orders and are budget-friendly as well***.
+- In the box plot, it can be seen that there is a discrepancy between the median number of votes for both categories. The Zomato application gives customers the option to rate restaurants after they've ordered through it. This will lead to more votes for the restaurants accepting online orders.
+- The ***majority of the restaurants are priced under 1000***, which means they are affordable and few are luxurious.
+- The ***most no. of eateries are found in BTM, HSR, and Koranmangala 5th block***. BTM dominates the section by having more than 4000 restaurants.
+- It is evident that ***eateries are primarily located in the central Bangalore region***. As we get farther from the center of the city, the number of restaurants decreases. Therefore, prospective restaurateurs can consult this to identify suitable places for their business.
+
+**Check out the notebook above to learn more**
