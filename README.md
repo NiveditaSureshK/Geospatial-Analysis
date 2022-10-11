@@ -68,27 +68,27 @@ Work flow of process:
 
 ### Exploratory Data Analysis
 - There are different types of charts Bar, Pie, Line, Scatter Plot, Column chart etc. which can visually present the data in a more understandable way.
-- Below bar chart shows the most famous restaurant chains in Bangalore with number of outlets.
+- Below **bar chart** shows the most famous restaurant chains in Bangalore with number of outlets.
 
 <p align="center"><img width="571" alt="image" src="https://user-images.githubusercontent.com/71536311/194037000-d06ac267-2a96-494e-867b-b85187c80e5a.png"></p>
 
-- The following pie chart shows the percentage of online orders accepted by restaurants.
+- The following **pie chart** shows the percentage of online orders accepted by restaurants.
 
 <p align="center"><img width="200" alt="image" src="https://user-images.githubusercontent.com/71536311/194037223-0b6008bd-fa97-40db-a14f-b7cd5294c31c.png"></p> 
 
-- The below figure represents the bar chart for different types of restaurants.
+- The below figure represents the **bar chart** for different types of restaurants.
 
 <p align="center"><img width="657" alt="image" src="https://user-images.githubusercontent.com/71536311/194037589-e36863c3-5416-4e32-8417-2a4374569322.png"></p> 
 
-- Bar graph of different varieties of cuisines in Bangalore.
+- **Bar graph** of different varieties of cuisines in Bangalore.
 
 <p align="center"><img width="436" alt="image" src="https://user-images.githubusercontent.com/71536311/194037795-00b5ec12-1978-4cbb-8bf9-c4bb6d376793.png"></p> 
 
-- Below scatter plot with X axis denotes the ratings of the restaurants and Y axis denotes the approximate cost for 2 people. 
+- Below **scatter plot** with X axis denotes the ratings of the restaurants and Y axis denotes the approximate cost for 2 people. 
 
 <p align="center"><img width="512" alt="image" src="https://user-images.githubusercontent.com/71536311/194037948-7d08a98d-3fd9-4797-b96e-bb8e702969ae.png"></p> 
 
-- Box plot depicting the price difference between restaurants that accept online orders and those that do not
+- **Box plot** depicting the price difference between restaurants that accept online orders and those that do not
 
 <p align="center"><img width="341" alt="image" src="https://user-images.githubusercontent.com/71536311/194038465-a933fa89-a360-474e-b8ef-bc8dec129d17.png"></p> 
 
@@ -102,7 +102,7 @@ Work flow of process:
 
 ![geo analysis](https://user-images.githubusercontent.com/71536311/194526173-42f7e43b-227c-4260-8b01-dbb505b80710.gif)
 
-- Plot a HeatMap based on variety of use cases with the help of **Python's Folium "HeatMap" Plugins**.
+- Plot a **HeatMap** based on variety of use cases with the help of **Python's Folium "HeatMap" Plugins**.
 - The heatmap below depicts the clutter of restaurants in Bengaluru.
 
 ![heatmap of blore](https://user-images.githubusercontent.com/71536311/194525572-e888e715-84ea-4a83-a304-a2ac19843997.gif)
@@ -113,7 +113,7 @@ Work flow of process:
 
 ### Sentiment Analysis
 - Here are the **Wordclouds developed using the built-in function in python called “WordCloud”** for 9 different types of restaurants where customers left feedback.   
-- To generate the below pictured wordclouds using Python, feedbacks are preprocessed, null values are dropped and all characters and spaces are removed except alphabets.
+- To generate the below pictured wordclouds using **Python**, feedbacks are preprocessed, null values are dropped and all characters and spaces are removed except alphabets.
 
 <p align="center"><img width="698" alt="image" src="https://user-images.githubusercontent.com/71536311/194528121-df60fde3-4dd3-4c6c-b4d6-c3d79f0b7982.png"></p> 
 <p align="center"><img width="690" alt="image" src="https://user-images.githubusercontent.com/71536311/194528242-581f6dbc-7b5b-4950-a865-643fc7f295df.png"></p> 
@@ -122,9 +122,9 @@ Work flow of process:
 ## Tools Used
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23#ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)   ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-- Jupyter Notebook is used as IDE.
-- Among the Python libraries, Pandas and NumPy are used for handling data, preprocessing, and mathematical operations, respectively.
-- Plotly, Seaborn, and Matplotlib are used for visualizing plots.
+- **Jupyter Notebook** is used as IDE.
+- Among the **Python** libraries, **Pandas** and **NumPy** are used for handling data, preprocessing, and mathematical operations, respectively.
+- **Plotly, Seaborn**, and **Matplotlib** are used for visualizing plots.
 
 For more details, please go through the Jupyter Notebook attached above.
 
