@@ -97,8 +97,8 @@ Work flow of process:
 
 #### Heatmap of Restaurants in Bengaluru city
 - For locating the restaurants in geographical map, we need latitudes, longitudes and count of restaurants. 
-- Extract the **"Latitude"** and **"Longitude"** w.r.t. different Locations using **Python's Geopy** Library.
-- Generate a **"BaseMap"** of Bangalore using **Python's Folium** Library.
+- Extract the **"Latitude"** and **"Longitude"** w.r.t. different Locations using **Python's Geopy library**.
+- Generate a **"BaseMap"** of Bangalore using **Python's Folium library**.
 
 ![geo analysis](https://user-images.githubusercontent.com/71536311/194526173-42f7e43b-227c-4260-8b01-dbb505b80710.gif)
 
@@ -123,7 +123,7 @@ Work flow of process:
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23#ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)   ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 - **Jupyter Notebook** is used as IDE.
-- Among the **Python** libraries, **Pandas** and **NumPy** are used for handling data, preprocessing, and mathematical operations, respectively.
+- Among the **Python libraries**, **Pandas** and **NumPy** are used for handling data, preprocessing, and mathematical operations, respectively.
 - **Plotly, Seaborn**, and **Matplotlib** are used for visualizing plots.
 
 For more details, please go through the Jupyter Notebook attached above.
